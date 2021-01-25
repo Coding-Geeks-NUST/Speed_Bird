@@ -1,3 +1,0 @@
-{'Score_G': 6, 'Score_S': 6, 'Score_M': 14}
-{'Score_G': 0, 'Score_S': 0, 'Score_M': 0}
-{'Score_G': 0, 'Score_S': 0, 'Score_M': 0}
